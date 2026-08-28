@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/yamada.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=48&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=~Hello;I'm+Sean+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Welcome+to+my+corner+of+GitHub+%E2%98%95;I'm+Sean+%E2%80%94+just+a+dev+tinkering+with+software+%26+AI" width="70%" />
 <br><br>
 <pre>
     💼 Full-Stack Software Engineer • Builder
