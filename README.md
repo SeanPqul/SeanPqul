@@ -12,5 +12,4 @@
 <br>
 
 [![](https://img.shields.io/badge/MyAnimeList-2e51a2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/madfaker)
-[![](https://img.shields.io/badge/GitHub-SeanPqul-181717?logo=github&logoColor=white)](https://github.com/SeanPqul)
 </div>
