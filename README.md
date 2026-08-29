@@ -12,5 +12,6 @@
 <br>
 
 [![](https://img.shields.io/badge/MyAnimeList-2e51a2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/madfaker)
+[![](https://img.shields.io/badge/VNDB-204a87)](https://vndb.org/u218206/ulist?vnlist=1)
 [![](https://img.shields.io/badge/ichiharashii.dev-6366f1)](https://ichiharashii.dev/)
 </div>
